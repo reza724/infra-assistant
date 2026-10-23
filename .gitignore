@@ -1,0 +1,10 @@
+.env
+__pycache__/
+node_modules/
+scenario_outputs/
+audit_log.jsonl
+target-app/index.js.buggy
+web/node_modules/
+web/.next/
+web/.env.local
+demo/output/

@@ -1,0 +1,6 @@
+requests>=2.31
+langchain-openai>=1.0
+langgraph>=1.0
+fastapi>=0.110
+uvicorn>=0.29
+playwright>=1.40
